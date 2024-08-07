@@ -1,0 +1,17 @@
+0 A
+1 B
+2 C
+3 D
+4 E
+5 F
+6 H
+7 Hello
+8 Help
+9 I
+10 ily
+11 K
+12 More
+13 Please
+14 Thankyou
+15 wait
+16 Y
