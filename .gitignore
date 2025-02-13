@@ -1,3 +1,0 @@
-ENV/*
-db.sqlite3
-test.rest
