@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .home-page {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .home-page .logo {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .home-page .options button {
+    background-color: lightblue;
+    border: none;
+    padding: 15px 30px;
+    margin: 10px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+  
+  .home-page .options button:hover {
+    background-color: #88c0f1;
+  }
+  
+  .sign-language-page,
+  .environment-detection-page,
+  .language-translation-page {
+    background: linear-gradient(blue, lightblue);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .camera-feed {
+    border: 2px solid lightblue;
+    margin: 20px auto;
+    width: 80%;
+    height: 300px;
+    background: black;
+  }
+  
+  .output {
+    margin: 20px auto;
+    text-align: center;
+  }
