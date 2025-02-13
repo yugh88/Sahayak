@@ -29,6 +29,38 @@ body {
   .home-page .options button:hover {
     background-color: #88c0f1;
   }
+
+.navbar {
+    background-color: #333;
+    padding: 1em;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar li {
+    margin: 0 1em;
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline;
+  }
+  
+  .app-content {
+    padding: 2em;
+    text-align: center;
+  }
   
   .sign-language-page,
   .environment-detection-page,
