@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yugh88/Sahayak/static/css/main.9c043b9c.css",
+    "main.js": "/yugh88/Sahayak/static/js/main.bc45b65e.js",
+    "index.html": "/yugh88/Sahayak/index.html",
+    "main.9c043b9c.css.map": "/yugh88/Sahayak/static/css/main.9c043b9c.css.map",
+    "main.bc45b65e.js.map": "/yugh88/Sahayak/static/js/main.bc45b65e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c043b9c.css",
+    "static/js/main.bc45b65e.js"
+  ]
+}
